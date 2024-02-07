@@ -20,7 +20,7 @@ class StopwatchApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'OMGSTOP',
+      title: 'OMGSTOPS',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
